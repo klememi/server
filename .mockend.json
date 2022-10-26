@@ -27,5 +27,13 @@
       "isPublic": {
         "boolean": {}
       }
+    },
+    "Sport": {
+        "id": {
+            "int": {
+                "min": 1,
+                "max": 999
+            }
+        }
     }
   }
